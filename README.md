@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Omran</h1>
 <h3 align="center">Software Developer | PHP & Laravel | Full-Stack Developer</h3>
 
-### 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-omran-0a5898278" title="Connect on LinkedIn" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-</p>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc
 
 ---
 ### 👨‍💻 About Me
@@ -36,4 +33,13 @@ My goal is to build technology that solves real problems — efficiently, profes
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohamed-omran-0a5898278" title="Connect on LinkedIn" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
 </p>
