@@ -39,7 +39,7 @@ My goal is to build technology that solves real problems — efficiently, profes
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohamed-omran-0a5898278" title="Connect on LinkedIn" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamedomran-dev" title="Connect on LinkedIn" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
